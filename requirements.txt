@@ -1,0 +1,34 @@
+# ===============================
+# Core LangChain
+# ===============================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ===============================
+# Google Gemini
+# ===============================
+langchain-google-genai
+google-genai
+
+# ===============================
+# Vector Database
+# ===============================
+faiss-cpu
+
+# ===============================
+# Environment Variables
+# ===============================
+python-dotenv
+
+# ===============================
+# HTML Parsing (Required by WebBaseLoader)
+# ===============================
+beautifulsoup4
+lxml
+
+# ===============================
+# Utilities
+# ===============================
+requests
